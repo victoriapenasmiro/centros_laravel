@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'nuevo_centro' => 'Alta centro educativo',
+    'nombre'     => 'Nombre',
+    'asd' => 'Código ASD',
+    'descripcion' => 'Descripción',
+    'descrip_centro' => 'Descripción del centro',
+    'fec_alta' => 'Fecha de alta',
+    'primer_radio' => 'Primer radio',
+    'segundo_radio' => 'Segundo radio',
+    'tercer_radio' => 'Tercer radio',
+    'guarderia' => 'Guardería',
+    'con_guarderia' => 'Tiene guardería',
+    'categoria' => 'Categoria',
+    'ambitos' => 'Elige los ámbitos (ctrl + click)',
+    'infantil' => 'Infantil',
+    'primaria' => 'Primaria',
+    'eso' => 'ESO',
+    'bachiller' => 'Bachiller',
+    'fp' => 'FP',
+    'registrar' => 'Registrar',
+    'volver' => "Volver al listado",
+    'actualizar' => "Actualizar",
+    'selecciona' => "Por favor, selecciona una opción",
+];
